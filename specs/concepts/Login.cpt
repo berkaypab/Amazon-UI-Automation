@@ -1,0 +1,10 @@
+
+
+# Kullanıcı adi <userName> ve sifre <password> bilgisi girilir
+* Send <userName> Keys to given element "eMailInput"
+* Click to element "continueButtonOnLoginPage"
+* Send <password> Keys to given element "passwordInput"
+* Click to element "signInButtonOnLoginPage"
+* "userNameOnNavbar" elementi "Merhaba, Giriş yapın" degerini icermedigi dogrulanir
+* "userNameOnNavbar" elementi "Berkay" degerini iceriyor mu kontrol edilir
+

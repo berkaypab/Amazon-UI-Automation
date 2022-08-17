@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84bf2451-b6bc-4314-8a02-f861fc63bf51" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Concept" />
+        <option value="Specification" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/specs/concepts/Login.cpt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/specs/concepts/MainPage.cpt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/specs/concepts/ProductPage.cpt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/specs/specs/Login.spec" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/WebAutomationBase/helper/ElementHelper.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/WebAutomationBase/model/ElementInfo.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/driver/Driver.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/org/example/StepImplementation.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/resources/elementValues/ProductPage.json" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29rJNMvovSeshpi2CIXGN2JPEhm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/berka/Desktop/MyProject/MyStoreProject&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Gauge Execution.Add to cart Test">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Add to cart Test" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/specs/Login.spec:30" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="UI-Automation-Amazon" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Broken Link Test On Navbar" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/specs/Login.spec:15" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="UI-Automation-Amazon" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login Test" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/specs/Login.spec:5" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="UI-Automation-Amazon" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test Deneme" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/specs/Login.spec:35" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="UI-Automation-Amazon" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gauge Execution.Add to cart Test" />
+      <item itemvalue="Gauge Execution.Broken Link Test On Navbar" />
+      <item itemvalue="Gauge Execution.Login Test" />
+      <item itemvalue="Gauge Execution.Test Deneme" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gauge Execution.Add to cart Test" />
+        <item itemvalue="Gauge Execution.Login Test" />
+        <item itemvalue="Gauge Execution.Test Deneme" />
+        <item itemvalue="Gauge Execution.Broken Link Test On Navbar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84bf2451-b6bc-4314-8a02-f861fc63bf51" name="Changes" comment="" />
+      <created>1653865230015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653865230015</updated>
+      <workItem from="1653865232702" duration="631000" />
+      <workItem from="1653865928559" duration="9539000" />
+      <workItem from="1653877352503" duration="383000" />
+      <workItem from="1653877757245" duration="49000" />
+      <workItem from="1653877964181" duration="467000" />
+      <workItem from="1653878448935" duration="111000" />
+      <workItem from="1653878577863" duration="1340000" />
+      <workItem from="1653880003744" duration="746000" />
+      <workItem from="1653880762879" duration="858000" />
+      <workItem from="1653881643811" duration="3655000" />
+      <workItem from="1653949343993" duration="331000" />
+      <workItem from="1653949697493" duration="12675000" />
+      <workItem from="1653972292464" duration="12095000" />
+      <workItem from="1654041017823" duration="722000" />
+      <workItem from="1654041770561" duration="11070000" />
+      <workItem from="1654052967013" duration="1913000" />
+      <workItem from="1654055971545" duration="51527000" />
+      <workItem from="1654988442654" duration="1439000" />
+      <workItem from="1655327118160" duration="623000" />
+      <workItem from="1656640636925" duration="188000" />
+      <workItem from="1656640894178" duration="601000" />
+      <workItem from="1658631023520" duration="19000" />
+      <workItem from="1659238136922" duration="672000" />
+      <workItem from="1659610744421" duration="4805000" />
+      <workItem from="1659946606445" duration="15000" />
+      <workItem from="1660040230140" duration="679000" />
+      <workItem from="1660314445477" duration="743000" />
+      <workItem from="1660693774389" duration="722000" />
+      <workItem from="1660729403700" duration="57000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/StepImplementation.java</url>
+          <line>994</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

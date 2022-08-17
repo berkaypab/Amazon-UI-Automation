@@ -1,0 +1,52 @@
+[
+  {
+    "key": "subCardRomanceNovelsOnProductPage",
+    "value": "(//*[contains(text(),'Aşk Romanları')])[1]/ancestor::a",
+    "type": "xpath"
+  },
+  {
+    "key": "productLinksOnProductPage",
+    "value": "span[data-component-type='s-product-image'] a",
+    "type": "css"
+  },
+  {
+    "key": "productTitleOnProductPage",
+    "value": "span[id='productTitle']",
+    "type": "css"
+  },
+  {
+    "key": "addToCartButtonOnProductPage",
+    "value": "input[id='add-to-cart-button']",
+    "type": "css"
+  },
+  {
+    "key": "quantityDropDownInputOnProductPage",
+    "value": "select[id='quantity']",
+    "type": "css"
+  },
+  {
+    "key": "productPriceOnProductPage",
+    "value": "span[id='price']",
+    "type": "css"
+  },
+  {
+    "key": "stockTextLabelOnProductPage",
+    "value": "div[id='availability'] span",
+    "type": "css"
+  },
+  {
+    "key": "outOfStockSpan",
+    "value": "//span[contains(text(),'Şu anda mevcut değil.')]",
+    "type": "xpath"
+  },
+  {
+    "key": "productAvailabilitySpan",
+    "value": "div[id='availability'] span",
+    "type": "css"
+  },
+  {
+    "key": "navCart",
+    "value": "nav-cart",
+    "type": "id"
+  }
+]

@@ -1,0 +1,32 @@
+# 5 saniye bekle
+* Wait "5" seconds
+
+# Amazon websitesi acilir
+* Navigate to home page
+
+# Anasayfadan Giris sayfasina gidilir
+* Hover by given element "navBarSignInSection"
+* Click to element "signInButton"
+
+# Cerezler kabul edilir
+* Click to element "acceptCookies"
+
+# Navbar linklerin fonksiyonelite kontrolu yapilir
+* Hover all elements in "linksOnNavBar" with js
+* Check broken links with "linksOnNavBar" element
+
+# Anasayfadaki urun cartlarinin ekranda oldugu dogrulanir
+* 5 saniye bekle
+
+# Navbardan kitap kategorisine tiklanir
+* Click to element "cartItemBookOnMainPage"
+
+# Ask Romanlari kategorisine tiklanir
+* Click to element "subCardRomanceNovelsOnProductPage"
+
+# Rastgele bir kitap secilir
+* "productLinksOnProductPage" menu listesinden rasgele sec
+
+# Sitenin acildigi kontrol edilir
+* Title "Amazon.com.tr: Elektronik, bilgisayar" degerini iceriyor mu kontrol et
+

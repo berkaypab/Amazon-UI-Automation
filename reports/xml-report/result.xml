@@ -1,0 +1,8 @@
+<testsuites>
+	<testsuite id="1" tests="1" failures="0" package="C:\Users\berka\Desktop\AmazonKopya\specs\specs\Login.spec" time="24.014" timestamp="2022-06-12T02:04:04" name="Specification Heading" errors="0" hostname="DESKTOP-MC9HOA1">
+		<properties></properties>
+		<testcase classname="Specification Heading" name="Add to cart Test" time="24.014"></testcase>
+		<system-out></system-out>
+		<system-err></system-err>
+	</testsuite>
+</testsuites>

@@ -1,0 +1,38 @@
+# Rastgele ürün secilir
+* "productLinksOnProductPage" ile rastgele ürün secilir
+
+# Product sayfasinda valuelar alinir ve sepete eklenir
+* "productTitleOnProductPage" li elementin textini "valueTitle" olarak kaydet
+* "productPriceOnProductPage" li elementin textini "valuePrice" olarak kaydet
+* Click to element "addToCartButtonOnProductPage"
+
+# Sepete gidilir
+* Click to element "navCart"
+
+# Sepetteki valular alinir
+* "cartPageTitle" li elementin textini "valueTitle1" olarak kaydet
+* "cartPagePrice" li elementin textini "valuePrice1" olarak kaydet
+
+# Deger karsilastirmalari yapilir
+* "valueTitle" ve "valueTitle1" degerlerini dogrula
+* "valuePrice" ve "valuePrice1" degerlerini dogrula
+
+# Urun sepetten silinir ve sepetin bos oldugu dogrulanir
+* Click to element "deleteFromCart"
+* Refresh Page
+* "productsOnCart" product is not exist on cart page
+
+
+
+
+
+ "productAvailabilitySpan" li elementin textini "availability" olarak kaydet
+ abc "<productAvailabilitySpan>" "    Stokta var.   "
+
+ <key> li elementin textinin <text> degeri ile aynı oldugunu dogrula
+ Stokta urun yoksa geri gel ve baska bir urunu sec
+
+ 5 saniye bekle
+
+
+ "productTitleOnProductPage" li elementin textini "product_title" olarak kaydet

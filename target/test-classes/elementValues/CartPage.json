@@ -1,0 +1,22 @@
+[
+  {
+    "key": "deleteFromCart",
+    "value": "input[name*='submit.delete']",
+    "type": "css"
+  },
+  {
+    "key": "cartPageTitle",
+    "value": "((//div[@class='sc-list-item-content']//a[@class='a-link-normal sc-product-link'])[2]//span)[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "cartPagePrice",
+    "value": "span[class='a-size-medium a-color-base sc-price sc-white-space-nowrap sc-product-price a-text-bold']",
+    "type": "css"
+  },
+  {
+    "key": "productsOnCart",
+    "value": "div[id*='sc-item']",
+    "type": "css"
+  }
+]

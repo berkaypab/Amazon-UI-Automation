@@ -1,0 +1,22 @@
+[
+  {
+    "key": "eMailInput",
+    "value": "[id='ap_email']",
+    "type": "css"
+  },
+  {
+    "key": "continueButtonOnLoginPage",
+    "value": "input[id='continue']",
+    "type": "css"
+  },
+  {
+    "key": "passwordInput",
+    "value": "input[id='ap_password']",
+    "type": "css"
+  },
+  {
+    "key": "signInButtonOnLoginPage",
+    "value": "//*[contains(@id,'signInSubmit')]",
+    "type": "xpath"
+  }
+]

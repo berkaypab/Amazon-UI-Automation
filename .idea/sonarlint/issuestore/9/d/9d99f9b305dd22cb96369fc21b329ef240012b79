@@ -1,0 +1,17 @@
+
+B
+java:S2925Ú"&Remove this use of "TimeUnit.sleep()".(‹ªÖŞÿÿÿÿÿ
+@
+java:S2925â"$Remove this use of "Thread.sleep()".(ı‰¤ëşÿÿÿÿ
+;
+java:S2925ô"$Remove this use of "Thread.sleep()".(ù¥¤¡
+5
+java:S5785¯"Use assertEquals instead.(”ê¢şÿÿÿÿ
+5
+java:S5785¼"Use assertEquals instead.(”ê¢şÿÿÿÿ
+5
+java:S5785Ê"Use assertEquals instead.(”ê¢şÿÿÿÿ
+=
+java:S2925ë"&Remove this use of "TimeUnit.sleep()".(Äæ¿ˆ
+8
+java:S5785¦"Use assertNotEquals instead.(¤ÎÎ¹øÿÿÿÿ
